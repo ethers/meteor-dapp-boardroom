@@ -3,7 +3,7 @@
 		{
 			"id": 0,
 			"code": "transaction",
-			"name": "Etheruem Standard Transaction",
+			"name": "Ethereum Standard Transaction",
 			"nameShort": "Standard Transaction",
 			"description": "This will send a standard Ethereum transaction of a specified value to the specified addresses. Transaction bytecode data may also be specified.",
 			"descriptionShort": "This will send an Ethereum standard transaction.",
